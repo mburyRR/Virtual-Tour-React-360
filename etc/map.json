@@ -1,0 +1,899 @@
+{
+  "initialSceneId": "p0_0",
+  "scenes": [
+    {
+      "id": "p0_0",
+      "image": "p0_0.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p0_1",
+          "position": {
+            "left": 2300,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p0_1",
+      "image": "p0_1.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p0_0",
+          "position": {
+            "left": 0,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p0_2",
+          "position": {
+            "left": 1100,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p0_6",
+          "position": {
+            "left": 2280,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p0_2",
+      "image": "p0_2.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p0_1",
+          "position": {
+            "left": 3500,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_1",
+          "position": {
+            "left": 2200,
+            "top": 400
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p0_3",
+          "position": {
+            "left": 1100,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 1.6,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p0_3",
+      "image": "p0_3.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p0_2",
+          "position": {
+            "left": 0,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p0_4",
+          "position": {
+            "left": 2300,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 4.7,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p0_4",
+      "image": "p0_4.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p0_3",
+          "position": {
+            "left": 2250,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": -4.6,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p0_5",
+          "position": {
+            "left": 3450,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 1.55,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p0_5",
+      "image": "p0_5.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p0_4",
+          "position": {
+            "left": 3370,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": -1.55,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_4",
+          "position": {
+            "left": 4500,
+            "top": 400
+          },
+          "rotation": {
+            "x": 0,
+            "y": 1.6,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p0_6",
+      "image": "p0_6.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p0_1",
+          "position": {
+            "left": 0,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p0_7",
+          "position": {
+            "left": 3500,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": -1.4,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p0_8",
+          "position": {
+            "left": 2300,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 3.2,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p0_7",
+      "image": "p0_7.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p0_6",
+          "position": {
+            "left": 0,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.25,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p0_8",
+      "image": "p0_8.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p0_6",
+          "position": {
+            "left": 2300,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p0_9",
+          "position": {
+            "left": 0,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.2,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p0_9",
+      "image": "p0_9.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p0_8",
+          "position": {
+            "left": 100,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 3.2,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p0_10",
+          "position": {
+            "left": 2450,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": -0.1,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_17",
+          "position": {
+            "left": 950,
+            "top": 400
+          },
+          "rotation": {
+            "x": 0,
+            "y": 3.2,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p0_10",
+      "image": "p0_10.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p0_9",
+          "position": {
+            "left": 0,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_1",
+      "image": "p1_1.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p0_2",
+          "position": {
+            "left": 0,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_2",
+          "position": {
+            "left": 3350,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": -1.3,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_12",
+          "position": {
+            "left": 1000,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 3.3,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_2",
+      "image": "p1_2.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_1",
+          "position": {
+            "left": 0,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.25,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_3",
+          "position": {
+            "left": 2300,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 1.8,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_3",
+      "image": "p1_3.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_2",
+          "position": {
+            "left": 2250,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": -1.3,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_4",
+          "position": {
+            "left": 3400,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 1.8,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_4",
+      "image": "p1_4.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_3",
+          "position": {
+            "left": 1100,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 1.6,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_5",
+          "position": {
+            "left": 3350,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 1.7,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p0_5",
+          "position": {
+            "left": 2420,
+            "top": 600
+          },
+          "rotation": {
+            "x": 0,
+            "y": 1.6,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_5",
+      "image": "p1_5.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_4",
+          "position": {
+            "left": 1150,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 1.7,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_6",
+          "position": {
+            "left": 2300,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.9,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_9",
+          "position": {
+            "left": 0,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.1,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_6",
+      "image": "p1_6.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_5",
+          "position": {
+            "left": 4000,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 1.8,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_7",
+          "position": {
+            "left": 2800,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.2,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_7",
+      "image": "p1_7.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_6",
+          "position": {
+            "left": 0,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 1,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_8",
+          "position": {
+            "left": 2300,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": -0.4,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_8",
+      "image": "p1_8.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_7",
+          "position": {
+            "left": 4300,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.1,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_9",
+      "image": "p1_9.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_5",
+          "position": {
+            "left": 1100,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 1.6,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_10",
+          "position": {
+            "left": 2250,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_10",
+      "image": "p1_10.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_9",
+          "position": {
+            "left": 4540,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_11",
+          "position": {
+            "left": 2250,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 1.35,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_11",
+      "image": "p1_11.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_10",
+          "position": {
+            "left": 700,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.1,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_12",
+      "image": "p1_12.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_1",
+          "position": {
+            "left": 1100,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_13",
+          "position": {
+            "left": 0,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 3.3,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_15",
+          "position": {
+            "left": 2300,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 3.4,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_13",
+      "image": "p1_13.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_12",
+          "position": {
+            "left": 2280,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": -3,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_14",
+          "position": {
+            "left": 3500,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 1.6,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_14",
+      "image": "p1_14.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_13",
+          "position": {
+            "left": 4540,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 3.3,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_15",
+      "image": "p1_15.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_12",
+          "position": {
+            "left": 60,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 3.3,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_16",
+          "position": {
+            "left": 2350,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 3.2,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_16",
+      "image": "p1_16.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_15",
+          "position": {
+            "left": 0,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 3.3,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_17",
+          "position": {
+            "left": 2270,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 3.2,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_17",
+      "image": "p1_17.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_16",
+          "position": {
+            "left": 4550,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": -3.2,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p1_18",
+          "position": {
+            "left": 2250,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.3,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "p0_9",
+          "position": {
+            "left": 1150,
+            "top": 600
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.3,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "p1_18",
+      "image": "p1_18.jpg",
+      "hotspots": [
+        {
+          "sceneId": "p1_17",
+          "position": {
+            "left": 2350,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 3.3,
+            "z": 0
+          }
+        }
+      ]
+    }
+  ]
+}

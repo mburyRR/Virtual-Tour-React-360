@@ -1,0 +1,22 @@
+<html>
+<head>
+  <meta charset='utf-8'>
+  <title>MGR M.Bury - React 360</title>
+  <meta name="description" content="MGR - Virtual Tour - React 360">
+  <meta name="author" content="Marcin Bury">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+</head>
+<body>
+  <div id="container"></div>
+  <script src="./client.bundle?platform=vr"></script>
+  <script src="./components/zoom.js"></script>
+  <script>
+    // Initialize the React 360 application and set asset folder to /img/
+    React360.init(
+      'index.bundle?platform=vr&dev=true',
+      document.getElementById('container'),
+      {assetRoot: 'img/'}
+    );
+  </script>
+</body>
+</html>
